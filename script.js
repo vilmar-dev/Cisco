@@ -5,7 +5,7 @@ function{
 
 
 /* =================================
-   CANVA FRAME PHOTOBOOTH ENGINE
+   CANVA FRAME ITO! 
 ================================= */
 
 
