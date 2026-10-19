@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log("Hello World");
 
 function{
@@ -523,3 +524,8 @@ track=>track.stop()
 
   function{
     }
+=======
+let word = "Harold happy birthday";
+let reverse=word.split("").reverse().join("");
+console.log(reverse)
+>>>>>>> e7ba060 (reverse string)
