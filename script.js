@@ -33,3 +33,6 @@ function Find(a,b,c){
 }
 
 console.log(Find(19,29,180)); */
+
+
+//add all numbers 
