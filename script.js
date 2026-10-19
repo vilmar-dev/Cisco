@@ -19,7 +19,7 @@ console.log(evenadd(4)); */
 
 
 // find largest
-
+/*
 function Find(a,b,c){
     if (a >= b && a>=c){
         return (a);
@@ -32,4 +32,4 @@ function Find(a,b,c){
     }
 }
 
-console.log(Find(19,29,180));
+console.log(Find(19,29,180)); */
