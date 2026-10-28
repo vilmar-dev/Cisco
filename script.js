@@ -1,4 +1,4 @@
-//reverse string
+////reverse string
 
 let word= "hello";
 let reverse=word.split("").reverse().join("");
